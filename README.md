@@ -1,4 +1,3 @@
-# GameCube Backup Manager
 # Espresso
 
 **Espresso** is an all-in-one GameCube and Wii backup managing tool. It's made to work with FAT32 only.
